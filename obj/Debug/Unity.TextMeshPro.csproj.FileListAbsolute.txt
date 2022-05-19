@@ -1,0 +1,2 @@
+C:\Users\Eva\Documents\Egyetem\diplomamunka\Floorplan to 3D\Floorplan to 3D\obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+C:\Users\Eva\Documents\Egyetem\diplomamunka\Floorplan to 3D\Floorplan to 3D\obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
